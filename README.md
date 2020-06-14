@@ -4,12 +4,16 @@
 
 2. Git clone there
 
-## Usage
+## Start
 Go back in your world and if this pops up:
 
 ![alt text](https://i.imgur.com/yj7jyiQ.png)
 
-you are good to go! If you don't see it, do ``/reload``
+press start! If it doesn't, do ``/reload``.
+
+## Game
+
+![alt text](http://yogot.free.bg/145DW.png)
 
 ## License
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)

@@ -9,6 +9,8 @@
 
 2. Only 1 game can be played at a time
 
+3. Game version - 1.15.2
+
 ## Game
 ### Start
 
@@ -30,6 +32,8 @@ The 2nd player must press **-[JOIN GAME]-**. Now the actual game begins. Each pl
 | PLayer2 | red   |
 
 ### How to play
+
+When you throw a block out of your hotbar, it indicates where you want to place your colored block. For instance when you throw out the first block in your hotbar, it will color the block with digit 1 in the field. Here is how every hotbar represents a block(hotbar > block):
 
 ![alt text](http://yogot.free.bg/game.png)
 
